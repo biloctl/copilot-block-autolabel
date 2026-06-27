@@ -1,0 +1,22 @@
+# Secrets / local config — never commit
+*.secret
+*.secrets
+secrets.*
+*.env
+.env
+.env.*
+appsettings.local.json
+local.settings.json
+*-private.*
+*-internal.*
+
+# Anything explicitly marked as containing real values
+*REAL*
+*-real.*
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
