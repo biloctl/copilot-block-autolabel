@@ -69,4 +69,4 @@ No secrets or tenant identifiers are committed in this repo. All environment-spe
 supplied at runtime via Automation Variables. Do not commit secrets — see `.gitignore`.
 
 ## License
-MIT (or your preference).
+   MIT
